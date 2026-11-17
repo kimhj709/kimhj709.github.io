@@ -1,0 +1,1 @@
+document.querySelectorAll('[data-filter]').forEach(b=>b.addEventListener('click',()=>{document.querySelectorAll('[data-filter]').forEach(x=>x.setAttribute('aria-pressed',String(x===b)));document.querySelectorAll('#paper-list .paper').forEach(p=>p.hidden=b.dataset.filter!=='all'&&p.dataset.year!==b.dataset.filter);}));
