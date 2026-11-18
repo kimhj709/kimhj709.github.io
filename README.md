@@ -1,5 +1,7 @@
 # Hyunjun Kim — Minimal Light
 
+**Homepage:** [https://kimhj709.github.io/](https://kimhj709.github.io/)
+
 Customized static version of yaoyao-liu/minimal-light (CC0).
 
 ## GitHub Pages
